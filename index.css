@@ -16,7 +16,7 @@ body{
 }
 #page-name{
 	display: flex;
-	flex-direction: row;
+	flex-direction:row;
 }
 #page-title{
 	color: white;
